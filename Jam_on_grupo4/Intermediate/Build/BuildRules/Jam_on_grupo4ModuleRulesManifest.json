@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ivanb\\OneDrive\\Desktop\\Primera Jam\\Jam-On-grupo-4\\Jam_on_grupo4\\Intermediate\\Source\\Jam_on_grupo4.Build.cs",
+		"C:\\Users\\ivanb\\OneDrive\\Desktop\\Primera Jam\\Jam-On-grupo-4\\Jam_on_grupo4\\Intermediate\\Source\\Jam_on_grupo4.Target.cs",
+		"C:\\Users\\ivanb\\OneDrive\\Desktop\\Primera Jam\\Jam-On-grupo-4\\Jam_on_grupo4\\Intermediate\\Source\\Jam_on_grupo4Client.Target.cs",
+		"C:\\Users\\ivanb\\OneDrive\\Desktop\\Primera Jam\\Jam-On-grupo-4\\Jam_on_grupo4\\Intermediate\\Source\\Jam_on_grupo4Editor.Target.cs",
+		"C:\\Users\\ivanb\\OneDrive\\Desktop\\Primera Jam\\Jam-On-grupo-4\\Jam_on_grupo4\\Intermediate\\Source\\Jam_on_grupo4Server.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
